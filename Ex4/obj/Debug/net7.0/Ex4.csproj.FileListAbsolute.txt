@@ -1,0 +1,15 @@
+D:\Документы\Desktop\Seminar_1\Ex4\bin\Debug\net7.0\Ex4.exe
+D:\Документы\Desktop\Seminar_1\Ex4\bin\Debug\net7.0\Ex4.deps.json
+D:\Документы\Desktop\Seminar_1\Ex4\bin\Debug\net7.0\Ex4.runtimeconfig.json
+D:\Документы\Desktop\Seminar_1\Ex4\bin\Debug\net7.0\Ex4.dll
+D:\Документы\Desktop\Seminar_1\Ex4\bin\Debug\net7.0\Ex4.pdb
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.csproj.AssemblyReference.cache
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfoInputs.cache
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfo.cs
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.csproj.CoreCompileInputs.cache
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.dll
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\refint\Ex4.dll
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.pdb
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\Ex4.genruntimeconfig.cache
+D:\Документы\Desktop\Seminar_1\Ex4\obj\Debug\net7.0\ref\Ex4.dll
